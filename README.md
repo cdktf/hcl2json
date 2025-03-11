@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This fork is no longer maintained, please use https://github.com/tmccombs/hcl2json/ instead.
+
 # hcl2json
 
 This is a tool to convert from [HCL](https://github.com/hashicorp/hcl2/blob/master/hcl/hclsyntax/spec.md) to json, to make it
